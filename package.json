@@ -1,0 +1,22 @@
+{
+  "name": "slot-machine-game",
+  "version": "1.0.0",
+  "description": "Slot machine game of casino",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhParmar/Slot-Machine-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhParmar/Slot-Machine-Game/issues"
+  },
+  "homepage": "https://github.com/shubhParmar/Slot-Machine-Game#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
